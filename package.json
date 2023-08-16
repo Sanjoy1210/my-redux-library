@@ -1,0 +1,25 @@
+{
+  "name": "my-redux",
+  "version": "1.0.0",
+  "description": "Learn how redux works behind the scene and make my own library like redux. Learning by building.",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanjoy1210/my-redux-library.git"
+  },
+  "author": "Sanjoy Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanjoy1210/my-redux-library/issues"
+  },
+  "homepage": "https://github.com/Sanjoy1210/my-redux-library#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
