@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Learn how redux works behind the scene and make my own library like redux. Learning by building.",
   "main": "index.js",
-  "source": "src/index.html",
+  "source": "index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
